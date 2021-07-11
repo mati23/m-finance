@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/list-stocks-function-lambda/list-stocks-function.iml" filepath="$PROJECT_DIR$/list-stocks-function-lambda/list-stocks-function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m-finances.iml" filepath="$PROJECT_DIR$/m-finances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m-finances-model/m-finances-model.iml" filepath="$PROJECT_DIR$/m-finances-model/m-finances-model.iml" />
+    </modules>
+  </component>
+</project>
