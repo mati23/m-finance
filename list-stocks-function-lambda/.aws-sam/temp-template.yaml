@@ -1,9 +1,0 @@
-Resources:
-  Function:
-    Type: AWS::Serverless::Function
-    Properties:
-      Timeout: 300
-      MemorySize: 576
-      Handler: function.App
-      CodeUri: C:\Users\Mateus\IdeaProjects\m-finances\list-stocks-function-lambda
-      Runtime: java8.al2
